@@ -1,0 +1,15 @@
+word_list = ["macaco",
+             "girafa",
+             "camelo",
+             "urubu",
+             "babuino",
+             "cavalo",
+             "cachorro",
+             "gato",
+             "tartaruga",
+             "rinoceronte",
+             "hipopotamo",
+             "baleia",
+             "jacare",
+             "elefante"
+            ]
